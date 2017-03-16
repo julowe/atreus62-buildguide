@@ -32,7 +32,7 @@ Hmm just ordered but it seems you can get by with just two spacer layers... [Img
  Hard to say. I like the tactile click, but I also don't hate my coworkers... So trying to decide between Cherry MX Browns and Clears. Or maybe splurge on some [65g R5 Zealios](https://zealpc.net/collections/switches/products/zealio)
  
  ## Keycaps
- I do love the look of the [1976 keycaps](https://www.reddit.com/r/MechanicalKeyboards/comments/4zk8ui/1976_on_my_60_atreus/), but perhaps just blanks or cheap keycaps just to get this working. Or maybe try to custom print some keys from [WASD](http://www.wasdkeyboards.com/index.php/products/printed-keycap-singles/reprinted-key.html) Will need to figure out how many keys of what size & what profile I need, but could get correctly aligned text on thumb keys then...
+ I do love the look of the [1976 keycaps](https://www.reddit.com/r/MechanicalKeyboards/comments/4zk8ui/1976_on_my_60_atreus/), but perhaps just blanks or cheap keycaps just to get this working. Or maybe try to custom print some keys from [WASD](http://www.wasdkeyboards.com/index.php/products/printed-keycap-singles/reprinted-key.html) or [MaxKeyboard](http://www.maxkeyboard.com/ansi-layout-custom-color-cherry-mx-keycap-set.html) Will need to figure out how many keys of what size & what profile I need, but could get correctly aligned text on thumb keys then...
  
  ## Layout
 [Keyboard-Layout-Editor.com example of Atreus62](http://www.keyboard-layout-editor.com/#/gists/88fcfd8e0b7d726525d0e391b0c93031) 
