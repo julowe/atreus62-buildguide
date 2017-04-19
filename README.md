@@ -26,7 +26,9 @@ Ponoko offers very small (P1 - 181mmx181mm) and just right (24"x12" - 596mm x 29
 
 Hmm just ordered but it seems you can get by with just two spacer layers... [Imgur](http://i.imgur.com/Tp04rdk.jpg) & [Source Post](https://www.reddit.com/r/MechanicalKeyboards/comments/5m8lz1/earthy_atreus62/dc25ng3/) If I had seen this before I would have been more inclined to cut up one of the spacer layers in to 4 or so parts and cut them from the middle of the other spacer. Though my first timer discount of $20 more or less cancelled this out. But good to know in the future.
 
- --- Pictures to come when pieces arrive in ~11 days --
+The two sheets arrived, all pictures located in the [images folder](images/). Below are some of the layers, in both walnut and birch
+![I like how they turned out](images/case-both-small.jpg)
+
  
  ## Keyswitches 
  Hard to say. I like the tactile click, but I also don't hate my coworkers... So trying to decide between Cherry MX Browns and Clears. Or maybe splurge on some [65g R5 Zealios](https://zealpc.net/collections/switches/products/zealio)
