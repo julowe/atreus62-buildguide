@@ -24,7 +24,7 @@ Ponoko offers very small (P1 - 181mmx181mm) and just right (24"x12" - 596mm x 29
 
 [Ponoko Design for 3 spacers and 1 top plate in 3.2mm Birch Plywood on 24"x12" sheet](ponoko/1topPlateInitials-3spacers-24x12-3.2mmBirchPly.svg)
 
-Hmm just ordered but it seems you can get by with just two spacer layers... [Imgur](http://i.imgur.com/Tp04rdk.jpg) & [Source Post](https://www.reddit.com/r/MechanicalKeyboards/comments/5m8lz1/earthy_atreus62/dc25ng3/) If I had seen this before I would have been more inclined to cut up one of the spacer layers in to 4 or so parts and cut them from the middle of the other spacer.  
+Hmm just ordered but it seems you can get by with just two spacer layers... [Imgur](http://i.imgur.com/Tp04rdk.jpg) & [Source Post](https://www.reddit.com/r/MechanicalKeyboards/comments/5m8lz1/earthy_atreus62/dc25ng3/) If I had seen this before I would have been more inclined to cut up one of the spacer layers in to 4 or so parts and cut them from the middle of the other spacer. Though my first timer discount of $20 more or less cancelled this out. For the birch plywood the cost was $11.60 for the making and $9.50 for the material for a total of	$21.10. Good to know in the future.
 
  --- Pictures to come when pieces arrive in ~11 days --
  
