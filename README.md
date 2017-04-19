@@ -24,29 +24,38 @@ Ponoko offers very small (P1 - 181mmx181mm) and just right (24"x12" - 596mm x 29
 
 [Ponoko Design for 3 spacers and 1 top plate in 3.2mm Birch Plywood on 24"x12" sheet](ponoko/1topPlateInitials-3spacers-24x12-3.2mmBirchPly.svg)
 
-Hmm just ordered but it seems you can get by with just two spacer layers... [Imgur](http://i.imgur.com/Tp04rdk.jpg) & [Source Post](https://www.reddit.com/r/MechanicalKeyboards/comments/5m8lz1/earthy_atreus62/dc25ng3/)
+Hmm just ordered but it seems you can get by with just two spacer layers... [Imgur](http://i.imgur.com/Tp04rdk.jpg) & [Source Post](https://www.reddit.com/r/MechanicalKeyboards/comments/5m8lz1/earthy_atreus62/dc25ng3/) If I had seen this before I would have been more inclined to cut up one of the spacer layers in to 4 or so parts and cut them from the middle of the other spacer.  
 
  --- Pictures to come when pieces arrive in ~11 days --
  
  ## Keyswitches 
  Hard to say. I like the tactile click, but I also don't hate my coworkers... So trying to decide between Cherry MX Browns and Clears. Or maybe splurge on some [65g R5 Zealios](https://zealpc.net/collections/switches/products/zealio)
  
- Bought 70 [Cherry MX Clears from MechanicalKeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=594)
+ Went ahead and bought 70 [Cherry MX Clears from MechanicalKeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=594)
  
  ## Keycaps
- I do love the look of the [1976 keycaps](https://www.reddit.com/r/MechanicalKeyboards/comments/4zk8ui/1976_on_my_60_atreus/), but perhaps just blanks or cheap keycaps just to get this working. Or maybe try to custom print some keys from [WASD](http://www.wasdkeyboards.com/index.php/products/printed-keycap-singles/reprinted-key.html) or [MaxKeyboard](http://www.maxkeyboard.com/ansi-layout-custom-color-cherry-mx-keycap-set.html) Will need to figure out how many keys of what size & what profile I need, but could get correctly aligned text on thumb keys then...
+ I do love the look of the [1976 keycaps](https://www.reddit.com/r/MechanicalKeyboards/comments/4zk8ui/1976_on_my_60_atreus/), but perhaps just blanks or cheap keycaps just to get this working. 
+ 
+ I will probably end up changing the keymap, but I got a [custom printed 104 set from WASD](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) with sideways printing for Ctrl and Alt keys and some bottom keys with text in R1 profile as well as flipped 180 degree R4 profile to try. And since I had some extra keys left over (space bar, CapsLock, etc) I printed some random keys for other keyboard. We'll see how they turn out!
  
  ## Layout
-[Keyboard-Layout-Editor.com example of Atreus62](http://www.keyboard-layout-editor.com/#/gists/88fcfd8e0b7d726525d0e391b0c93031) 
+[Keyboard-Layout-Editor.com example of Atreus62 I made](http://www.keyboard-layout-editor.com/#/gists/88fcfd8e0b7d726525d0e391b0c93031) 
 
 [Guide to Edit Keymap](http://nickgreen.info/quick-guide-how-to-edit-keymap-on-atreus62/)
 
 ## Cost
 
-| Part  | Cost  |
-| ------------- | ------------- |
+| Part                                    | Cost  |
+| --------------------------------------- | -------- |
 | Atreus62 PCB & Electronics + Shipping   | $62.98   |
-| 70 Cherry MX Clears   | $45.50   |
-| Case Layers + Extras    | $59.64   |
-| Keycaps    | ??   |
-| **Total** | **$168.12 + more** |
+| 70 Cherry MX Clears                     | $45.50   |
+| Ponoko Making                           | $28.33   |
+| Ponoko Materials (1 walnut & 1 plywood) | $37.50   |
+| Ponoko Shipping                         | $13.81   |
+| Ponoko 1st Timer Discount               | -$20.00  |
+| Keycaps                                 | $50.00   |
+| Keycaps Shipping                        | $14.60   |
+| Keycaps Taxes                           | $4.63    |
+| **Total**                               | **$237.35 |
+
+
