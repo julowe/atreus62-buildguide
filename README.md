@@ -1,3 +1,7 @@
+# FAQ
+
+[Default Keymap from QMK project](https://github.com/qmk/qmk_firmware/blob/master/keyboards/atreus62/keymaps/default/keymap.c)
+
 # Build Guide for Atreus62
 
 ## Sourcing components
@@ -41,7 +45,7 @@ The two sheets arrived, all pictures located in the [images folder](images/). Be
  I will probably end up changing the keymap, but I got a [custom printed 104 set from WASD](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) with sideways printing for Ctrl and Alt keys and some bottom keys with text in R1 profile as well as flipped 180 degree R4 profile to try. And since I had some extra keys left over (space bar, CapsLock, etc) I printed some random keys for other keyboard. We'll see how they turn out!
  
  ## Layout
-[Keyboard-Layout-Editor.com example of Atreus62 I made](http://www.keyboard-layout-editor.com/#/gists/88fcfd8e0b7d726525d0e391b0c93031) 
+[Keyboard-Layout-Editor.com example of Atreus62 I made](http://www.keyboard-layout-editor.com/#/gists/ba3723e5507de945f8a2954fe8877d16) 
 
 [Guide to Edit Keymap](http://nickgreen.info/quick-guide-how-to-edit-keymap-on-atreus62/)
 
@@ -58,6 +62,6 @@ The two sheets arrived, all pictures located in the [images folder](images/). Be
 | Keycaps                                 | $50.00   |
 | Keycaps Shipping                        | $14.60   |
 | Keycaps Taxes                           | $4.63    |
-| **Total**                               | **$237.35 |
+| **Total**                               | **$237.35** |
 
 
