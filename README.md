@@ -2,6 +2,8 @@
 
 [Default Keymap from QMK project](https://github.com/qmk/qmk_firmware/blob/master/keyboards/atreus62/keymaps/default/keymap.c)
 
+[KLE Layout of Default layer and Nav layer](http://www.keyboard-layout-editor.com/#/gists/ba3723e5507de945f8a2954fe8877d16)
+
 # Build Guide for Atreus62
 
 ## Sourcing components
