@@ -51,6 +51,8 @@ The two sheets arrived, all pictures located in the [images folder](images/). Be
 
 [Guide to Edit Keymap](http://nickgreen.info/quick-guide-how-to-edit-keymap-on-atreus62/)
 
+Cloned the qmk_firmware repo and made some edits to the [keymap](http://www.keyboard-layout-editor.com/#/gists/5868fe5cf5176031f1ffead25500a2b8) and flashed the new map with avrdude on linux `sudo avrdude -p atmega32u4 -c avr109 -U flash:w:atreus62_jkl20170514.hex -P /dev/ttyACM0`
+
 ## Cost
 
 | Part                                    | Cost  |
@@ -65,5 +67,9 @@ The two sheets arrived, all pictures located in the [images folder](images/). Be
 | Keycaps Shipping                        | $14.60   |
 | Keycaps Taxes                           | $4.63    |
 | **Total**                               | **$237.35** |
+
+## Final Outcome
+
+add pictures
 
 
