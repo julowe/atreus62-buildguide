@@ -46,6 +46,10 @@ The two sheets arrived, all pictures located in the [images folder](images/). Be
  
  I will probably end up changing the keymap, but I got a [custom printed 104 set from WASD](http://www.wasdkeyboards.com/index.php/products/keycap-set/104-key-cherry-mx-keycap-set.html) with sideways printing for Ctrl and Alt keys and some bottom keys with text in R1 profile as well as flipped 180 degree R4 profile to try. And since I had some extra keys left over (space bar, CapsLock, etc) I printed some random keys for other keyboard. We'll see how they turn out!
  
+ Update: They turned out really well! The caps for this keyboard were mostly text and simple images, so no problems at all. I printed some full images, and they all turned out great except for one full cap top image with a white background on a black cap.
+ 
+ Annoying thing: Cherry MX Whites have fat stems! My keycaps wouldn't fit on them! I decided to file down these keycaps as I likely am not going to use them for any other keyboard, but now not sure what to do with future cap sets...
+ 
  ## Layout
 [Keyboard-Layout-Editor.com example of Atreus62 I made](http://www.keyboard-layout-editor.com/#/gists/ba3723e5507de945f8a2954fe8877d16) 
 
