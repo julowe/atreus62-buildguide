@@ -70,6 +70,11 @@ Cloned the qmk_firmware repo and made some edits to the [keymap](http://www.keyb
 
 ## Final Outcome
 
-add pictures
+Pretty happy with outcome :-) Will probably mess with keymap, mostly on nav layer though.
 
+![Top view](images/final-top.jpg)
+
+![Left view](images/final-left.jpg)
+
+![Right view](images/final-right.jpg)
 
